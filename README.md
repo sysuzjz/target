@@ -12,6 +12,6 @@
 | git     |git push免密码| 2015-09-12 | 2015-09-12 | 2015-09-12|
 | less    |熟悉less，能用less完成业务| 2015-09-13| 2015-09-13| 2015-09-13 |
 | coffee  | 熟练coffee script，能用之完成业务 | 2015-09-14 | 2015-09-15| done |
-| 前端工具|使用coffee、less、grunt协同开发|2015-09-16|2015-09-18| doing |
+| 前端工具|使用coffee、less、grunt协同开发|2015-09-16|2015-09-20| doing |
 | sass    | 同less | 待定 | 待定 | to do |
 | seajs   | 引入seajs，并通过seajs完成多模块协同 | 待定 | 待定 | to do |
