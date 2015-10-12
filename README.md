@@ -17,3 +17,4 @@
 | seajs   | 引入seajs，并通过seajs完成多模块协同 | 待定 | 待定 | to do |
 | ES6  | ES6基本特性了解及应用 | 待定 | 待定 | to do |
 | angular | angular框架特性了解及基础应用 | 待定 | 待定 | to do |
+| 网页3D | 了解three.js等3D库，能写出基础3D效果 | 待定 | 待定 | to do |
