@@ -15,3 +15,5 @@
 | 前端工具|使用coffee、less、grunt协同开发|2015-09-16|2015-09-20| delay |
 | sass    | 同less | 待定 | 待定 | to do |
 | seajs   | 引入seajs，并通过seajs完成多模块协同 | 待定 | 待定 | to do |
+| ES6  | ES6基本特性了解及应用 | 待定 | 待定 | to do |
+| angular | angular框架特性了解及基础应用 | 待定 | 待定 | to do |
