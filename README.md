@@ -13,7 +13,7 @@
 | less    |熟悉less，能用less完成业务| 2015-09-13| 2015-09-13| 2015-09-13 |
 | coffee  | 熟练coffee script，能用之完成业务 | 2015-09-14 | 2015-09-15| done |
 | 前端工具|使用coffee、less、grunt协同开发|2015-09-16|2015-09-20| done / delay |
-| sass    | 同less | 2015-10-15 | 2015-10-15 | doing |
+| sass    | 同less | 2015-10-15 | 2015-10-15 | done / delay |
 | seajs   | 引入seajs，并通过seajs完成多模块协同 | 待定 | 待定 | to do |
 | ES6  | ES6基本特性了解及应用 | 待定 | 待定 | to do |
 | angular | angular框架特性了解及基础应用 | 待定 | 待定 | to do |
